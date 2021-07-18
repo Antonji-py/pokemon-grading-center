@@ -29,6 +29,4 @@ printed output as from auto detection. Demo:
 * Run main.py by typing `py main.py` in cloned directory
 
 # Updates and future of the project
-### This is more advanced version of my previous [Pokemon OCR](https://github.com/Antonji-py/Pokemon-OCR). I plan to use maybe in some of my future 
-projects. Stuff that has to be done is for sure more precised and faster border detection, japaneese cards and surface grading. If you have any issues
-you can open and issue on GitHub or dm me on discord Antonji#0127.
+### This is more advanced version of my previous [Pokemon OCR](https://github.com/Antonji-py/Pokemon-OCR). I plan to use maybe in some of my future projects. Stuff that has to be done is for sure more precised and faster border detection, japaneese cards and surface grading. If you have any issues you can open and issue on GitHub or dm me on discord Antonji#0127.
